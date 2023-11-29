@@ -1,4 +1,4 @@
-package com.example.clean_architecture_getx_starter
+package com.cleanStarterByIan
 
 import io.flutter.embedding.android.FlutterActivity
 

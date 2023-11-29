@@ -1,0 +1,1 @@
+enum Routes { LOGIN, SPLASH, REGISTER, PERMISSIONS }
